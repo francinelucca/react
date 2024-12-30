@@ -1,5 +1,11 @@
 # @primer/react
 
+## 37.7.2
+
+### Patch Changes
+
+- [`cdf7317`](https://github.com/primer/react/commit/cdf73176f170a00ee6889d58cc31bc2b07194b1a) Thanks [@TylerDixon](https://github.com/TylerDixon)! - Add className back to TokenBase
+
 ## 37.7.1
 
 ### Patch Changes
